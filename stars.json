@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "morehwachege/kodomasuta",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "morehwachege/I4G000507I3M",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "cipherlogs/uhugrid",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -21,7 +27,7 @@
     "full_name": "r4j0x00/exploits",
     "stargazers_count": 2460,
     "open_issues_count": 0,
-    "forks_count": 712
+    "forks_count": 711
   },
   {
     "full_name": "morehwachege/libre",
@@ -31,27 +37,27 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 219052,
-    "open_issues_count": 86,
-    "forks_count": 25049
+    "stargazers_count": 219423,
+    "open_issues_count": 91,
+    "forks_count": 25092
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 34226,
-    "open_issues_count": 61,
-    "forks_count": 8312
+    "stargazers_count": 34248,
+    "open_issues_count": 45,
+    "forks_count": 8320
   },
   {
     "full_name": "hoodiehq/hoodie",
     "stargazers_count": 4346,
-    "open_issues_count": 67,
+    "open_issues_count": 66,
     "forks_count": 455
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 75180,
-    "open_issues_count": 9399,
-    "forks_count": 10097
+    "stargazers_count": 75290,
+    "open_issues_count": 9430,
+    "forks_count": 10108
   },
   {
     "full_name": "morehwachege/Bookshelf",
