@@ -7,13 +7,13 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 4495,
-    "open_issues_count": 10,
-    "forks_count": 192
+    "stargazers_count": 4499,
+    "open_issues_count": 6,
+    "forks_count": 193
   },
   {
     "full_name": "lucasdotvin/laravel-soulbscription",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 8,
     "forks_count": 52
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "HexHive/malWASH",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 0,
     "forks_count": 29
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 257824,
+    "stargazers_count": 258394,
     "open_issues_count": 193,
-    "forks_count": 29310
+    "forks_count": 29347
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 37146,
-    "open_issues_count": 43,
-    "forks_count": 9205
+    "stargazers_count": 37188,
+    "open_issues_count": 36,
+    "forks_count": 9207
   },
   {
     "full_name": "hoodiehq/hoodie",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 85606,
+    "stargazers_count": 85701,
     "open_issues_count": 9583,
-    "forks_count": 11321
+    "forks_count": 11349
   },
   {
     "full_name": "morehwachege/Bookshelf",
