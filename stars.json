@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "morehwachege/njoro-the-explorer",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 14424,
-    "open_issues_count": 3087,
-    "forks_count": 4311
+    "stargazers_count": 14467,
+    "open_issues_count": 3090,
+    "forks_count": 4329
   },
   {
     "full_name": "morehwachege/morehwachege",
@@ -13,15 +19,15 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 4526,
+    "stargazers_count": 4618,
     "open_issues_count": 10,
-    "forks_count": 191
+    "forks_count": 192
   },
   {
     "full_name": "lucasdotvin/laravel-soulbscription",
-    "stargazers_count": 424,
+    "stargazers_count": 435,
     "open_issues_count": 10,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "morehwachege/chimopy",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "HexHive/malWASH",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 0,
     "forks_count": 29
   },
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 261257,
+    "stargazers_count": 262109,
     "open_issues_count": 202,
-    "forks_count": 29622
+    "forks_count": 29698
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 37406,
-    "open_issues_count": 21,
-    "forks_count": 9272
+    "stargazers_count": 37432,
+    "open_issues_count": 23,
+    "forks_count": 9284
   },
   {
     "full_name": "hoodiehq/hoodie",
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 86371,
-    "open_issues_count": 9628,
-    "forks_count": 11436
+    "stargazers_count": 86464,
+    "open_issues_count": 9647,
+    "forks_count": 11453
   },
   {
     "full_name": "morehwachege/Bookshelf",
