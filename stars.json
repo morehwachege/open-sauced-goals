@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "avgupta456/github-trends",
+    "stargazers_count": 5723,
+    "open_issues_count": 4,
+    "forks_count": 40
+  },
+  {
     "full_name": "morehwachege/njoro-the-explorer",
     "stargazers_count": 3,
     "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "argoproj/argo-cd",
-    "stargazers_count": 14776,
-    "open_issues_count": 3158,
-    "forks_count": 4430
+    "stargazers_count": 14806,
+    "open_issues_count": 3157,
+    "forks_count": 4439
   },
   {
     "full_name": "morehwachege/morehwachege",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "lucasdotvin/laravel-soulbscription",
-    "stargazers_count": 455,
+    "stargazers_count": 456,
     "open_issues_count": 10,
     "forks_count": 60
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "cipherlogs/uhugrid",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -75,7 +81,7 @@
     "full_name": "r4j0x00/exploits",
     "stargazers_count": 2475,
     "open_issues_count": 0,
-    "forks_count": 711
+    "forks_count": 710
   },
   {
     "full_name": "morehwachege/libre",
@@ -85,27 +91,27 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 270096,
-    "open_issues_count": 218,
-    "forks_count": 30396
+    "stargazers_count": 270584,
+    "open_issues_count": 221,
+    "forks_count": 30470
   },
   {
     "full_name": "Homebrew/brew",
-    "stargazers_count": 37821,
-    "open_issues_count": 21,
-    "forks_count": 9375
+    "stargazers_count": 37853,
+    "open_issues_count": 26,
+    "forks_count": 9390
   },
   {
     "full_name": "hoodiehq/hoodie",
-    "stargazers_count": 4378,
+    "stargazers_count": 4381,
     "open_issues_count": 68,
     "forks_count": 507
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 87456,
-    "open_issues_count": 9734,
-    "forks_count": 11638
+    "stargazers_count": 87679,
+    "open_issues_count": 9756,
+    "forks_count": 11680
   },
   {
     "full_name": "morehwachege/Bookshelf",
