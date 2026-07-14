@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tfpk/macrokata",
+    "stargazers_count": 1212,
+    "open_issues_count": 10,
+    "forks_count": 86
+  },
+  {
     "full_name": "The-DevBlog/bevy_third_person_camera",
     "stargazers_count": 107,
     "open_issues_count": 4,
@@ -21,7 +27,7 @@
     "full_name": "achorein/expo-share-intent",
     "stargazers_count": 594,
     "open_issues_count": 38,
-    "forks_count": 42
+    "forks_count": 45
   },
   {
     "full_name": "kz6fittycent/clera",
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "morehwachege/creolis-jumbo",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "morehwachege/jsgame",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
