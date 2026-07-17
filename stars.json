@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "freedesktop-rs/nmrs",
+    "stargazers_count": 299,
+    "open_issues_count": 18,
+    "forks_count": 30
+  },
+  {
     "full_name": "tfpk/macrokata",
-    "stargazers_count": 1212,
+    "stargazers_count": 1213,
     "open_issues_count": 10,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "The-DevBlog/bevy_third_person_camera",
-    "stargazers_count": 107,
-    "open_issues_count": 4,
+    "stargazers_count": 106,
+    "open_issues_count": 5,
     "forks_count": 27
   },
   {
@@ -169,12 +175,6 @@
   },
   {
     "full_name": "morehwachege/FindX",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "morehwachege/creolis-jumbo",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
