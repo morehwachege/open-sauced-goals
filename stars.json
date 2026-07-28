@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "pop-os/cosmic-settings",
+    "stargazers_count": 251,
+    "open_issues_count": 508,
+    "forks_count": 241
+  },
+  {
     "full_name": "freedesktop-rs/nmrs",
-    "stargazers_count": 303,
-    "open_issues_count": 17,
-    "forks_count": 32
+    "stargazers_count": 302,
+    "open_issues_count": 14,
+    "forks_count": 31
   },
   {
     "full_name": "tfpk/macrokata",
-    "stargazers_count": 1212,
+    "stargazers_count": 1211,
     "open_issues_count": 10,
     "forks_count": 88
   },
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "achorein/expo-share-intent",
-    "stargazers_count": 595,
-    "open_issues_count": 39,
-    "forks_count": 46
+    "stargazers_count": 597,
+    "open_issues_count": 40,
+    "forks_count": 47
   },
   {
     "full_name": "kz6fittycent/clera",
@@ -170,12 +176,6 @@
   {
     "full_name": "morehwachege/rock-paper-scissors",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "morehwachege/FindX",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
