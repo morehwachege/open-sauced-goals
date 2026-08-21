@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "mad-gooze/fast-blurhash",
+    "stargazers_count": 211,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "pop-os/cosmic-settings",
-    "stargazers_count": 252,
-    "open_issues_count": 510,
+    "stargazers_count": 253,
+    "open_issues_count": 512,
     "forks_count": 249
   },
   {
     "full_name": "freedesktop-rs/nmrs",
-    "stargazers_count": 301,
-    "open_issues_count": 14,
+    "stargazers_count": 302,
+    "open_issues_count": 16,
     "forks_count": 34
   },
   {
     "full_name": "tfpk/macrokata",
-    "stargazers_count": 1216,
+    "stargazers_count": 1219,
     "open_issues_count": 10,
     "forks_count": 88
   },
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "achorein/expo-share-intent",
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 44,
     "forks_count": 49
   },
@@ -170,12 +176,6 @@
   {
     "full_name": "morehwachege/potential-memory",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "morehwachege/rock-paper-scissors",
-    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   }
